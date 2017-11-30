@@ -1,1 +1,4 @@
 target/
+.idea/
+.DS_Store
+hw2.iml
